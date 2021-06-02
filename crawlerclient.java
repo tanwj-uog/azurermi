@@ -40,8 +40,8 @@ public class crawlerclient extends java.rmi.server.UnicastRemoteObject implement
     public static void main(String[] args) throws NotBoundException, MalformedURLException {
 
         //String reg_host = "192.168.10.107";
-        //String reg_host = "52.149.157.162";
-        String reg_host = "192.168.1.67";
+        String reg_host = "52.149.157.162";
+        //String reg_host = "192.168.1.67";
         // String reg_host = "localhost";
         int reg_port = 1099;
 
